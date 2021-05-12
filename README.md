@@ -8,4 +8,4 @@ that the Spring Boot framework relies on, so it was great to learn about how the
 
 Thanks!
 
-- Rupert Lange
+Rupert Lange
